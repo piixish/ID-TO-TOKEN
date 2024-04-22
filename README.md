@@ -11,3 +11,4 @@ Exécutez la commande suivante pour installer les dépendances nécessaires :
 ```bash
 pip install colorama
 ```
+# version du tool en python
